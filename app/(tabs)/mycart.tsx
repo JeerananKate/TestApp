@@ -6,7 +6,8 @@ export default function MyCart() {
 
 
   return (
-    <Text>Kim</Text>
+    <Text>Hello Kim</Text>
+    
   );
 }
 
